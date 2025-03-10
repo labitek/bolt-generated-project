@@ -1,25 +1,25 @@
 {
       "development": {
         "username": "postgres",
-        "password": "Dicom73%",
-        "database": "consultant_tracking",
-        "host": "127.0.0.1",
+        "password": "your_password",
+           "database": "consultant_tracking",
+        "host": "192.168.2.12",
         "port": 5432,
         "dialect": "postgres"
       },
       "test": {
         "username": "postgres",
-        "password": "Dicom73%",
+        "password": "your_password",
         "database": "consultant_tracking",
-        "host": "127.0.0.1",
+        "host": "192.168.2.12",
         "port": 5432,
         "dialect": "postgres"
       },
       "production": {
         "username": "postgres",
-        "password": "Dicom73%",
-        "database": "consultant_tracking",
-        "host": "127.0.0.1",
+        "password": "your_password",
+           "database": "consultant_tracking",
+        "host": "192.168.2.12",
         "port": 5432,
         "dialect": "postgres"
       }
